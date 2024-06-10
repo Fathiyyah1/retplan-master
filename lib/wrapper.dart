@@ -43,5 +43,5 @@ Future initApp() async {
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
   );
-  return getUser("nabil");
+  return getUser("Fatheya");
 }
